@@ -1,0 +1,15 @@
+.container{
+    height:200px;
+    width:calc(200px*3/2);
+    background-color: green;
+    margin:2em auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.red{
+    height:calc(200px*3/5);
+    width:calc(200px*3/5);
+    background-color: red;
+    border-radius:50%;
+}
